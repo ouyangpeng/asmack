@@ -1,3 +1,5 @@
+asmack 是 smack 在 Android 平台上的构建版本。
+
 aSmack - buildsystem for Smack on Android
 =========================================
 
